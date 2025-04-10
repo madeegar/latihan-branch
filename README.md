@@ -1,1 +1,4 @@
 # latihan-branch
+- oke
+- poke
+  
