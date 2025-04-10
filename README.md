@@ -1,5 +1,7 @@
 # latihan-branch
 - oke
 - poke
-- dev
 
+- main
+- ya
+  
